@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shivraj/AndroidStudioProjects/SimpleMessenger-ShivrajBuffalo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/shivraj/AndroidStudioProjects/SimpleMessenger-ShivrajBuffalo/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,4",
+                        "startColumns": "-1,-1,4",
+                        "startOffsets": "-1,-1,151",
+                        "endColumns": "-1,-1,37",
+                        "endOffsets": "-1,-1,184"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,151",
+                        "endColumns": "52,42,37",
+                        "endOffsets": "103,146,184"
+                    }
+                }
+            ]
+        }
+    ]
+}
